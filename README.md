@@ -1,5 +1,5 @@
 # callback-promisify
-```
+```shell
 npm install --save fn-callback-promisify
 ```
 
@@ -7,11 +7,11 @@ npm install --save fn-callback-promisify
 
 ## USAGE
 
-```
+```javascript
 import { promisify } from 'fn-callback-promisify';
 ```
 
-```
+```javascript
 const fnObj = {
   print: (content, callback) => {
     callback(content === 'fail' ? 'new error' : null, content);
