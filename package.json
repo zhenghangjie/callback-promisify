@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VanishingDante/Promisify.git"
+    "url": "git+https://github.com/zhenghangjie/callback-promisify.git"
   },
   "author": "zhenghangjie",
   "license": "ISC"
