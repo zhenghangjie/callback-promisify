@@ -3,7 +3,10 @@
 npm install --save fn-callback-promisify
 ```
 
+[demo](https://codesandbox.io/s/48x9vv6x27)
+
 ## USAGE
+
 ```
 import { promisify } from 'fn-callback-promisify';
 ```
